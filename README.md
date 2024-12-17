@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Mouser products</h2>
 
-![Mouser dataset header](https://github.com/luminati-io/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
+![Mouser dataset header](https://github.com/luminati-io/Mouser-dataset-sample/blob/main/Mouser-datasets.png)
 
 A Mouser dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
