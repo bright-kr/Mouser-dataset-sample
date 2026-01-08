@@ -1,4 +1,4 @@
-# # Mouser-dataset-samples
+# # Mouser 데이터셋 샘플
 
 <h2>1001개 Mouser 제품의 샘플 データセット</h2>
 
