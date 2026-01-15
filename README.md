@@ -1,12 +1,12 @@
 # # Mouser 데이터셋 샘플
 
-<h2>1001개 Mouser 제품의 샘플 データセット</h2>
+<h2>1001개 Mouser 제품의 샘플 데이터셋</h2>
 
 ![Mouser dataset header](https://github.com/bright-kr/Mouser-dataset-sample/blob/main/Mouser-datasets.png)
 
-1000개 이상의 레코드로 구성된 Mouser データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
+1000개 이상의 레코드로 구성된 Mouser 데이터셋 샘플입니다. 데이터셋는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>Mouser データセット에 포함된 일부 데이터 포인트:</h2>
+<h2>Mouser 데이터셋에 포함된 일부 데이터 포인트:</h2>
 
 * ```product_url```: 제품의 상세 페이지를 가리키는 URL  
 * ```category_url```: 제품의 카테고리 페이지를 가리키는 URL  
@@ -40,11 +40,11 @@
 그 외에도 매우 많습니다.
 
 이는 1,050만 개 이상의 <b>레코드</b>를 포함하는 "Mouser"
-データセット에서 파생된 샘플 서브셋입니다.
+데이터셋에서 파생된 샘플 서브셋입니다.
 
-사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일은 .gz로 압축할 수 있습니다</b>.
+사용 가능한 데이터셋 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일은 .gz로 압축할 수 있습니다</b>.
 
-データセット 전송 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+데이터셋 전송 유형 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 업데이트 빈도: <b>Once, Daily, Weekly, Monthly, Quarterly, 또는 Custom basis</b>.
 
@@ -52,7 +52,7 @@
 
 <b>[전체 Mouser dataset 받기](https://brightdata.co.kr/products/datasets/mouser)</b>.
 
-<h2>Mouser データセット의 사용 사례는 무엇입니까?</h2>
+<h2>Mouser 데이터셋의 사용 사례는 무엇입니까?</h2>
 
 <h3>1. 공급업체 식별</h3>
 Mouser에서 신뢰할 수 있는 공급업체와 수요가 높은 구성 요소를 식별하여 소싱 프로세스를 간소화하고 제품 품질을 향상시킵니다.
@@ -63,6 +63,6 @@ Mouser에서 시장 트렌드, 가격 패턴, 제품 수요를 분석하여 경�
 <h3>3. 수요 추적</h3>
 Mouser에서 수요 트렌드를 모니터링하여 재고 관리를 최적화하고, 이상적인 재고 수준을 유지하며, 과잉 재고 또는 품절과 같은 문제를 최소화합니다.
 
-<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구와 データセット 무료 이용</h2>
+<h2>학술 연구자 및 NGO를 위한 Web스크레이핑 도구와 데이터셋 무료 이용</h2>
 
-Bright Initiative는 다양한 환경 및 사회적 대의를 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO를 대상으로 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b>와 <b>[바로 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 액세스를 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
+Bright Initiative는 다양한 환경 및 사회적 대의를 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO를 대상으로 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b>와 <b>[바로 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)</b>에 대한 액세스를 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
